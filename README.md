@@ -27,3 +27,5 @@
 `[>]` A <a href="https://www.github.com/ZombieGeek0">ZombieGeek0</a> por el repositorio y las mejoras con la librería requests.
 
 `[>]` A <a href="https://www.github.com/Euronymou5">Euronymou5</a> por la idea y el boceto de la Whitelist y del programa.
+
+_Para consultar la primera versión hecha por Euronymou5, pincha <a href="https://pastebin.com/mHpWYbLw">aquí</a>.
