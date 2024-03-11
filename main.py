@@ -1,7 +1,8 @@
 # importamos las librerías necesarias 
 import requests, sys, socket
 
-ip = socket.gethostname()
+name = socket.gethostname()
+ip = socket.gethostbyname(name)
 
 def exit():
   sys.exit()
