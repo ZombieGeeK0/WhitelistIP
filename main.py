@@ -19,6 +19,5 @@ if ip in request:
   
 else:
   print(f'\n[>] Verificando {ip}')
-  time.sleep(3)
   print(f'\n[>] La IP {ip} no está en la lista')
   exit()
