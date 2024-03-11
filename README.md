@@ -32,6 +32,10 @@ _Para consultar la primera versión hecha por Euronymou5, pincha <a href="https:
 
 <hr>
 
+![imagen](https://github.com/ZombieGeeK0/WhitelistIP/assets/158185295/49812792-8586-46de-aab4-dd7c435b2ceb)
+
+<hr>
+
 `[ 📬 ]` Contacta conmigo a través de `Discord` mandando una invitación a `qwfkr.`
 
     qwfkr
