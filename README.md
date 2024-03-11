@@ -18,6 +18,10 @@
 
 <hr>
 
+## ⚠️ ¡ATENCIÓN! ⚠️
+
+`[>]` Puedes clonar el repositorio y editar la whitelist, o puedes crear un pastebin y cambiar el enlace de las requests.
+
 ## 🥇 CRÉDITOS 🥇
 
 `[>]` A <a href="https://www.github.com/ZombieGeek0">ZombieGeek0</a> por el repositorio y las mejoras con la librería requests.
