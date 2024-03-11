@@ -29,3 +29,12 @@
 `[>]` A <a href="https://www.github.com/Euronymou5">Euronymou5</a> por la idea y el boceto de la Whitelist y del programa.
 
 _Para consultar la primera versión hecha por Euronymou5, pincha <a href="https://pastebin.com/mHpWYbLw">aquí</a>._
+
+<hr>
+
+`[ 📬 ]` Contacta conmigo a través de `Discord` mandando una invitación a `qwfkr.`
+
+    qwfkr
+`[ 📬 ]` Si lo prefieres, mándame un correo a `3xpl017.contact@proton.me.`
+
+    3xpl017.contact@proton.me.
