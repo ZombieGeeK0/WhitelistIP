@@ -13,11 +13,12 @@ url = 'https://github.com/ZombieGeeK0/WhitelistIP/list.txt'
 request = requests.get(url)
  
 if ip in request:
-  print(f'[>] Verificando {ip}')
-  
+  print(f'\n[>] Verificando {ip}')
+  print(f'[>] La IP {ip} es válida y está en la lista')
+  main()
   
 else:
-  print(f'Verifying IP: {ip}')
+  print(f'\n[>] Verificando {ip}')
   time.sleep(3)
-  print('\n [>] No estás en la lista')
+  print(f'\n[>] La IP {ip} no está en la lista')
   exit()
