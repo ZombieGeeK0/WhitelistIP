@@ -1,15 +1,16 @@
 # importamos las librerías necesarias 
-import requests, time, sys
+import requests, time, sys, socket
+
+ip = socket.gethostname()
 
 def exit():
   sys.exit()
 
 def main(): 
   print('\n[>] Hello World\n')  # escribe aquí el código de tu programa 
- 
-resp = requests.get('http://ip-api.com/json/').json()  # se hace un request con json
- 
-ip = resp['query']  # se almacena la IP en una variable
+
+url = 'https://github.com/ZombieGeeK0/WhitelistIP/list.txt'
+request = requests.get(url)
  
 whitelist_ip = [ 
   'https://github.com/ZombieGeeK0/WhitelistIP/list.txt'
